@@ -1,4 +1,4 @@
-### Image Enhancement App using EDSR Model 🖼️
+[### Image Enhancement App using EDSR Model 🖼️](https://github.com/Ranjeeth11/Hands_On_Projects/blob/main/Projects/Image%20Enhancement%20App/app.py)
 This repository contains a Streamlit-based web app that enhances image quality using the EDSR (Enhanced Deep Super-Resolution) model. The app allows users to upload an image and apply super-resolution techniques to enhance its clarity and quality.
 
 ## Features 🚀
